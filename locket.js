@@ -50,11 +50,11 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "chúc mừng bạn đã đến với locket gold vip  ",
+            title: "locket Gold Vip  ",
             feature_set: [
                 {
-                    title: "✨✨✨✨✨",
-                    body: "💛💛💛💛💛💛💛💛💛💛",
+                    title: "💗💗💗💗",
+                    body: "💛💛💛💛💛💛",
                     imageURL: "https://i.ibb.co/xkJMqKn/photo-2026-10-16-15-31-19.png"
                 
                 }
@@ -126,7 +126,7 @@ if (ua.includes("Locket")) {
         trimMaxDuration: MY_VIDEO_DURATION,
         camera_roll_max_duration: MY_VIDEO_DURATION,
         camera_roll_video_max_duration: MY_VIDEO_DURATION,
-        max_file_size: 104857600,       // Cho phép file tối đa 100MB từ thư viện
+        max_file_size: 104857600,       // Cho phép file tối đa 300MB từ thư viện
         max_upload_bytes: 104857600,   // Nới lỏng giới hạn dung lượng tải lên
         max_size_bytes: 104857600,
         quality_mbps: 0.9,
@@ -620,7 +620,7 @@ if (ua.includes("Locket")) {
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "nguyencongan",
+                            text: "trongtan",
                             text_color: "#183153",
                             type: "static_content"
                         }
