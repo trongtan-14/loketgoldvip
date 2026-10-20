@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "💗💗💗💗",
                     body: "💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/xkJMqKn/photo-2026-10-16-15-31-19.png"
+                    imageURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4q_mbhbXbDFvwxGEqGXeu_dAwgB4DyDVzfvFobt15qQ&s=10"
                 
                 }
             ],
